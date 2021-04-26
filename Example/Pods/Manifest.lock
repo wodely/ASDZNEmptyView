@@ -1,0 +1,23 @@
+PODS:
+  - ASDZNEmptyView (0.1.0):
+    - DZNEmptyDataSet
+  - DZNEmptyDataSet (1.8.1)
+
+DEPENDENCIES:
+  - ASDZNEmptyView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - DZNEmptyDataSet
+
+EXTERNAL SOURCES:
+  ASDZNEmptyView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASDZNEmptyView: cc753e77d08d7eb2fac59b2f4507221631de89fa
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+
+PODFILE CHECKSUM: df9055ca3b10dfaf8f970c5ae9177e7f2c7e8009
+
+COCOAPODS: 1.10.1

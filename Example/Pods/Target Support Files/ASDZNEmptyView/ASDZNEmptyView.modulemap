@@ -1,0 +1,6 @@
+framework module ASDZNEmptyView {
+  umbrella header "ASDZNEmptyView-umbrella.h"
+
+  export *
+  module * { export * }
+}

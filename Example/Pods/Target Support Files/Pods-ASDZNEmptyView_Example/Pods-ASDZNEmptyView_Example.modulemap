@@ -1,0 +1,6 @@
+framework module Pods_ASDZNEmptyView_Example {
+  umbrella header "Pods-ASDZNEmptyView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
